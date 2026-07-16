@@ -1,6 +1,8 @@
 # this was made by smartiefellow (on discord and roblox)
 # this is an ai integration script, used for websites, jsuk, i didnt mention website code as that isnt related with python
 # the ai bot should be a minecraft bot that should help you on your minecraft journey!
+# this code is currently being used for my website with the domain minebolt.info
+# proof of website ownership will be mentioned in the github project
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
