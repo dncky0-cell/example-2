@@ -1,3 +1,7 @@
+# this was made by smartiefellow (on discord and roblox)
+# this is an ai integration script, used for websites, jsuk, i didnt mention website code as that isnt related with python
+# the ai bot should be a minecraft bot that should help you on your minecraft journey!
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import os
