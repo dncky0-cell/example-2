@@ -1,4 +1,4 @@
-Hey! Me again applying for hiddendevs off-site programmer role, this is a different python script, used for ai websites, its a minecraft chatbot!
+Hey! Me again applying for hiddendevs off-site programmer role, this is a different python script, used for my ai website (specifically minebolt.info, a website i created), its a minecraft chatbot!
 
 For proof of ownership, I shared a photo of the netlify dashboard, showing me having access to the website!
 
